@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClass.set('com.homework.second.Main')
+    mainClass.set('com.homework.third.Main')
 }
 
 group = 'com.homework'
